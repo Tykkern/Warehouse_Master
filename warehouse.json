@@ -1,0 +1,18 @@
+[
+  {
+    "type": "FoodProduct",
+    "expirationDate": "2026-02-25",
+    "id": 1,
+    "name": "Банан",
+    "price": 10.0,
+    "quantity": 10
+  },
+  {
+    "type": "ElectronicsProduct",
+    "warrantyMonths": 12,
+    "id": 2,
+    "name": "Телефон",
+    "price": 10000.0,
+    "quantity": 10
+  }
+]
