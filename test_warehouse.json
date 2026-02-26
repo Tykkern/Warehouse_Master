@@ -1,0 +1,18 @@
+[
+  {
+    "type": "FoodProduct",
+    "expirationDate": "2027-08-26",
+    "id": 7001,
+    "name": "Консервы тушёнка",
+    "price": 210.0,
+    "quantity": 6
+  },
+  {
+    "type": "ElectronicsProduct",
+    "warrantyMonths": 12,
+    "id": 7002,
+    "name": "Powerbank 20000",
+    "price": 2490.0,
+    "quantity": 2
+  }
+]
